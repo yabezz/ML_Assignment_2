@@ -248,7 +248,7 @@ ML_Assignment_2/
 
 GitHub Repository:
 
-`[Add GitHub repository link here after creating the repository]`
+https://github.com/yabezz/ML_Assignment_2.git 
 
 ---
 
@@ -256,7 +256,7 @@ GitHub Repository:
 
 Streamlit Community Cloud Application:
 
-`[Add deployed Streamlit application link here after deployment]`
+http://localhost:8501/
 
 ---
 
