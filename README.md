@@ -256,7 +256,7 @@ https://github.com/yabezz/ML_Assignment_2.git
 
 Streamlit Community Cloud Application:
 
-http://localhost:8501/
+https://yabezdavidrajmlassignmentbits.streamlit.app/
 
 ---
 
